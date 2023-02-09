@@ -1,17 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0716c6a5-be23-477e-8abf-8812d95374fe" name="Changes" comment="" />
+    <list default="true" id="0716c6a5-be23-477e-8abf-8812d95374fe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day19-Regex.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC1ValidFirstName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC2ValidLastName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC3ValidGmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC4ValidMobileNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC5PasswdMinEightNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC6PasswdOneUpperCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC7PasswdOneNumericNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC8PasswdOneSpecialChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC9ClearAllEmailSamples.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2LVwSQ1rDpWr3lGVPHhC5Sb90Fl" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,5 +61,16 @@
       <updated>1675969558074</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
