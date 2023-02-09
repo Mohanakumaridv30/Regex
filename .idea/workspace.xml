@@ -2,22 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0716c6a5-be23-477e-8abf-8812d95374fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day19-Regex.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC1ValidFirstName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC2ValidLastName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC3ValidGmail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC4ValidMobileNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC5PasswdMinEightNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC6PasswdOneUpperCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC7PasswdOneNumericNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC8PasswdOneSpecialChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC9ClearAllEmailSamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC1ValidFirstName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC1ValidFirstName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC2ValidLastName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC2ValidLastName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC3ValidGmail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC3ValidGmail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC4ValidMobileNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC4ValidMobileNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC5PasswdMinEightNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC5PasswdMinEightNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC6PasswdOneUpperCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC6PasswdOneUpperCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC7PasswdOneNumericNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC7PasswdOneNumericNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC8PasswdOneSpecialChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC8PasswdOneSpecialChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC9ClearAllEmailSamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/regex/UC9ClearAllEmailSamples.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
